@@ -1,0 +1,9 @@
+Parameter,Value
+hidden_size,101
+lr,2.3273922280628698e-05
+discount_factor,0.977969100027277
+buffer_size,33874
+batch_size,66
+max_norm,0.6499623737270044
+epsilon_decay_method,linear
+Best Score,100.0
