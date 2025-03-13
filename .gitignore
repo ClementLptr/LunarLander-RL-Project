@@ -1,1 +1,82 @@
-.venv/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs and temp files
+logs/
+*.log
+*.out
+*.tmp
+*.pid
+*.seed
+*.bak
+*.swp
+*.swo
+
+# Environment variables
+.env
+*.env
+*.ini
+*.config
+*.toml
+
+# Data files (if any)
+*.csv
+*.json
+*.xml
+*.parquet
+*.xlsx
+*.db
+
+# Compiled files
+*.o
+*.so
+*.a
+*.lib
+*.dll
+
+# Debugging files
+debug.log
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.iml
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter notebook outputs
+*.ipynb_checkpoints
+
+# Profiling data
+*.prof
+*.dat
+
+# Pytest & Coverage
+htmlcov/
+*.cover
+*.coverage
+*.py,cover
+.cache
+.nox/
+.tox/
+.coverage
