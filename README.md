@@ -24,7 +24,7 @@ This project will implement and compare different RL algorithms:
 ## Expected Results & Challenges
 ### Expected Outcomes
 - A trained RL agent capable of landing safely with a high success rate.
-- Performance comparison of **DQN vs PPO vs SAC** (learning speed, stability, final reward).
+- Performance comparison of **DQN vs PPO** (learning speed, stability, final reward).
 - Graphs and visualizations of training curves, landing attempts, and agent improvements.
 
 ### Challenges
