@@ -8,6 +8,10 @@ The goal of this project is to train an autonomous agent using Reinforcement Lea
 - Minimize fuel consumption
 - Land smoothly while dealing with gravity, inertia, and dynamic uncertainties
 
+<div align="center">
+  <img src="figures/env.gif" alt="TFB Agent" height="200"/>
+</div>
+
 ## Motivation for Choosing Lunar Lander
 - **Complex problem**: The agent must optimize multiple constraints (fuel efficiency, stability, and precision) in a complex, partially observable environment.
 - **Strong foundation for RL applications**: The project offers an opportunity to apply key RL concepts such as policy learning, reward shaping, and the exploration-exploitation tradeoff.
@@ -16,7 +20,6 @@ The goal of this project is to train an autonomous agent using Reinforcement Lea
 This project will implement and compare different RL algorithms:
 - **DQN (Deep Q-Network)**: Discrete action control with experience replay.
 - **PPO (Proximal Policy Optimization)**: Policy gradient method for better stability.
-- **SAC (Soft Actor-Critic) [if time permits]**: Handles continuous action spaces efficiently.
 
 ## Expected Results & Challenges
 ### Expected Outcomes
